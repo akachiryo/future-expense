@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "test-83115"
+  },
+  "targets": {},
+  "etags": {
+    "test-83115": {
+      "extensionInstances": {}
+    }
+  }
+}
